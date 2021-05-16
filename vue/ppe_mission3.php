@@ -3,7 +3,8 @@
 
  <div>
 
- <h1>Projet Application LARAVEL - Fiche de Frais : Cette mission consiste à permettre à un comptable de pouvoir consulter, ajouter et modifier les fiches de frais des visiteurs.
+ <h1>Projet Client WPF - Gestion des rapport :
+  Cette mission consiste à permettre a un secretaire,de consulter, ajouter et modifier les fiches des visiteurs.
  </h1>
  <br/>
  <br/>

@@ -9,7 +9,8 @@
 		
 		</li>
 		<li>
-			<a href="index.php?uc=PPE">PPE</a>
+		
+			<a href="index.php?uc=PPE_mission1">PPE</a>
 			<ul>
 				<li>
 					<a href="index.php?uc=PPE_mission1">Mission 1</a>					
